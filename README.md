@@ -21,7 +21,7 @@
 
   ## Installation
 
-  
+  Clone repo, run npm install, and run node index.js from the terminal in the Budget folder
 
   ## Usage
 
@@ -38,7 +38,7 @@
 
   ## Tests
 
-  None
+  test
 
   ## Github
 
