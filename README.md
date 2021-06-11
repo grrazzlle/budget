@@ -7,7 +7,7 @@
 
   This application allows you to track your expenses and see the results displayed in a chart. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they populate the total when brought back online.
 
-  Click [here](https://secret-bastion-61573.herokuapp.com/) to try out the application
+  Click [here](https://grrazzlle-budget.herokuapp.com/) to try out the application
 
   ## Table of contents
 
@@ -25,7 +25,7 @@
 
   ## Usage
 
-  Add a name and amount for the transaction and weather it is income, or an expense
+  Add a name and amount for the transaction and wether it is income, or an expense
 
   ## Licence
 
