@@ -1,5 +1,5 @@
 
-  # **[Progressive Budget](http://github.com/Grrazzlle/budget)**
+  # **[Old Budget](http://github.com/Grrazzlle/budget)**
   
   [![License: None](https://img.shields.io/badge/License-None-blue.svg)](https://choosealicense.com/)
 
